@@ -29,6 +29,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nasim0994&show_icons=true&theme=dark)
 
-<br/>
+## :✳️: Languages
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasim0994&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
