@@ -25,3 +25,8 @@
 ## :book: My recent blog posts
 
 ## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nasim0994&show_icons=true)  
+</p>
