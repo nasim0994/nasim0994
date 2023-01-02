@@ -9,7 +9,7 @@ I am an expert HTML,CSS,Bootstrap,TailwindCSS,ReactJs,ExpressJs,MongoDB, and Fir
 
 <br />
 
-[<p align="center">[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/nasimuddin0994)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/MdNasim15295577)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"> </p>](https://twitter.com/MdNasim15295577)
+[<p align="center">[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/nasimuddin0994)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/MdNasim15295577)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">(https://www.linkedin.com/in/mdnasimuddin/)</p>]
 
 <br />
 
