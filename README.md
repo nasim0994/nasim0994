@@ -30,3 +30,6 @@
 <p align="center">
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nasim0994&show_icons=true)  
 </p>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nasim0994&show_icons=true)  
