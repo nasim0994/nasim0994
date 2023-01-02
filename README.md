@@ -27,4 +27,5 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nasim0994&show_icons=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nasim0994&show_icons=true&theme=dark)
