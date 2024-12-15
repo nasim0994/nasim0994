@@ -1,6 +1,6 @@
 ![I am a Front-end developer. ](https://media.licdn.com/dms/image/D5616AQEbcvWCPm6PHQ/profile-displaybackgroundimage-shrink_350_1400/0/1670508458480?e=1678320000&v=beta&t=aKGYLH-hdsQucYOYQnVMwrAlmhYQM26ZHqn1V1ke7kk)
 
-#### Hello, My Name is Md Nasim Uddin. I am Front-End Developer. I have 1 year of learning experience in Font-End Development. I have completed a Web Development course from Programming Hero. I am an expert HTML,CSS,Bootstrap,TailwindCSS,ReactJs,ExpressJs, MongoDB, and Firebase.
+#### My Name is Nuaim Hasan Nasim. I am a professional MERN Stack Developer. I have 2.5 years experience as a Front-End Developer. As a Junior MERN Stack Developer, I possess an impressive arsenal of skills in HTML, CSS, Tailwind CSS , Bootstrap , JavaScript , Reactjs, Nextjs, Redux, Nodejs, Expressjs, MongoDB, and Firebase . I excel in designing and maintaining responsive websites that offer a smooth user experience. My expertise lies in crafting dynamic, engaging interfaces through writing clean and optimized code and utilizing cutting-edge development tools and techniques.
 
 ## :mailbox: Reach me out
 
